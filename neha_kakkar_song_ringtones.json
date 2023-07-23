@@ -17,13 +17,6 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Oh Humsafar",
-      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/oh hamsafar.jpg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Oh%20Humsafar%20-%20Neha%20Kakkar%20-%20Tony%20Kakkar%20!%20Hindi.mp3",
-      "file": "Oh%20Humsafar%20-%20Neha%20Kakkar%20-%20Tony%20Kakkar%20!%20Hindi.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Tumhe Bolna Pasand He",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/tumhe hasna pasand he .jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tumhe Hasna Pasand Hai - Baarish Mein Tum - Neha Kakkar ! Hindi.mp3",
@@ -46,7 +39,7 @@
     {
       "id": "1",
       "ringtone_name": "Fikar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (54).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/fikaar.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Fikar-New-Songs-Ringtone-by-Neha-Kakkar-1130-dmr.mp3",
       "file": "Fikar-New-Songs-Ringtone-by-Neha-Kakkar-1130-dmr.mp3"
     },
@@ -88,7 +81,7 @@
     {
       "id": "1",
       "ringtone_name": "Nazron Se Vaar Kare",
-      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/nazro se var.avif",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/nazro se vaar.png",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Nazron Se Vaar Kare - Kusu Kusu - Hindi Song.mp3",
       "file": "Nazron Se Vaar Kare - Kusu Kusu - Hindi Song.mp3"
     },
@@ -189,13 +182,6 @@
       "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/12%20ladke.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/12 Ladke Sath Ghume - Tony Kakkar , Neha Kakkar.mp3",
       "file": "12 Ladke Sath Ghume - Tony Kakkar , Neha Kakkar.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Naach Meri Rani",
-      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/naach meri rani.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3",
-      "file": "Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3"
     },
     {
       "id": "1",
@@ -319,7 +305,7 @@
     {
       "id": "1",
       "ringtone_name": "Jheel Ke Pani Mein Ishq",
-      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/jheel ke pani mein.jpg\n",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/jheel ke pani mein.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Jheel Ke Pani Mein Ishq Hi Behta Ho - Neha Kakkar ! Hindi.mp3",
       "file": "Jheel Ke Pani Mein Ishq Hi Behta Ho - Neha Kakkar ! Hindi.mp3"
     },
