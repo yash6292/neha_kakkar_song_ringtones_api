@@ -3,41 +3,6 @@
   "data": [
     {
       "id": "1",
-      "ringtone_name": "Tu He To Jindgi",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/tu%20hi%20to%20jindgi%20he.jpg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Neha%20Kakkar.mp3",
-      "file": "Neha%20Kakkar.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Oh Sanam",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/oh sanam.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Oh Sanam Mere Hamdam ! Tony Kakkar.mp3",
-      "file": "Oh Sanam Mere Hamdam ! Tony Kakkar.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Shona Shona",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/shona shona.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Shona Shona - Tony Kakkar.mp3",
-      "file": "Shona Shona - Tony Kakkar.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Barish",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/baarish.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Barish - Neha Kakkar - Hindi.mp3",
-      "file": "Barish - Neha Kakkar - Hindi.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Tumko Barish Pasand He",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/tumko barish pasand he.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tumko Baarish Pasand Hai ! Neha Kakkar ! Hindi Song.mp3",
-      "file": "tumko barish pasand he.jpeg"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Manali Trance",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/manali trance.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Manali Trance Truth - Neha Kakkar ! Hindi.mp3",
@@ -45,7 +10,21 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Tumhe Hasna Pasand He",
+      "ringtone_name": "Ray Vanny - Pepeta",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/pepeta.jpg",
+      "ringtone_url": "https://yash6292.github.io/neha_kakkar_song_data/Pepeta - Nora Fatehi.mp3",
+      "file": "Pepeta - Nora Fatehi.mp3"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Oh Humsafar",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/oh hamsafar.jpg",
+      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Oh%20Humsafar%20-%20Neha%20Kakkar%20-%20Tony%20Kakkar%20!%20Hindi.mp3",
+      "file": "Oh%20Humsafar%20-%20Neha%20Kakkar%20-%20Tony%20Kakkar%20!%20Hindi.mp3"
+    },
+    {
+      "id": "1",
+      "ringtone_name": "Tumhe Bolna Pasand He",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/tumhe hasna pasand he .jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tumhe Hasna Pasand Hai - Baarish Mein Tum - Neha Kakkar ! Hindi.mp3",
       "file": "Tumhe Hasna Pasand Hai - Baarish Mein Tum - Neha Kakkar ! Hindi.mp3"
@@ -60,7 +39,7 @@
     {
       "id": "1",
       "ringtone_name": "Yeh Pyaar Bhi Tola Hoga",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (53).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/ye pyar bhi tola.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Yeh-Pyaar-Bhi-Tola-Hoga-Tumne-Ringtone-1129-dmr.mp3",
       "file": "Yeh-Pyaar-Bhi-Tola-Hoga-Tumne-Ringtone-1129-dmr.mp3"
     },
@@ -74,268 +53,170 @@
     {
       "id": "1",
       "ringtone_name": "Makhna",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (55).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/makhna.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Makhna-Song-Neha-Kakkar-Ringtones-1131-dmr.mp3",
       "file": "Makhna-Song-Neha-Kakkar-Ringtones-1131-dmr.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Gali Gali",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (56).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/gali gali.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Gali-Gali-KGF-Ringtone-by-Neha-Kakkar-1132-dmr.mp3",
       "file": "Gali-Gali-KGF-Ringtone-by-Neha-Kakkar-1132-dmr.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Me Sirf Teri Rahungi",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (57).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mai sirf teri.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Neha-Kakkar-Me-Sirf-Teri-Rahungi-Ringtone-1133-dmr.mp3",
       "file": "Neha-Kakkar-Me-Sirf-Teri-Rahungi-Ringtone-1133-dmr.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Maahi Ve",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (58).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Maahi-Ve-Wajah-Tum-Ho-Ringtones-by-Neha-Kakkar-1381-dmr.mp3",
-      "file": "Maahi-Ve-Wajah-Tum-Ho-Ringtones-by-Neha-Kakkar-1381-dmr.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Wah Wai Wahh",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (59).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Wah-Wai-Wahh.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Wah-Wai-Wahh-Neha-Kakkar-Ringtone-2400-dmr.mp3",
       "file": "Wah-Wai-Wahh-Neha-Kakkar-Ringtone-2400-dmr.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Jinke Liye Hum Rote Hai",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (60).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/jinke liye hum.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Jinke-Liye-Hum-Rote-Hai-New-Ringtone-2947-dmr.mp3",
       "file": "Jinke-Liye-Hum-Rote-Hai-New-Ringtone-2947-dmr.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Nazron Se Vaar Kare",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (37).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/nazro se var.avif",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Nazron Se Vaar Kare - Kusu Kusu - Hindi Song.mp3",
       "file": "Nazron Se Vaar Kare - Kusu Kusu - Hindi Song.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Kusu Kusu",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (39).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Kusu Kusu - Satyameva Jayate 2 ! Nora ! Hindi Song.mp3",
-      "file": "Kusu Kusu - Satyameva Jayate 2 ! Nora ! Hindi Song.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Dilbar Dilbar - Remix",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (40).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/dilbar remix.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dilbar Dilbar Remix.mp3",
       "file": "Dilbar Dilbar Remix.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Camray Waleya",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (13).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/camray waleya.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Camray Waleya - Neha Kakkar Tony kakkar (1).mp3",
       "file": "Camray Waleya - Neha Kakkar Tony kakkar (1).mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Mud Mud Ke",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (14).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mud mud ke.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/MUD MUD KE - Tony Kakkar ! Neha kakkar.mp3",
       "file": "MUD MUD KE - Tony Kakkar ! Neha kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Haye marga",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (16).jpeg",
+      "ringtone_name": "Haye margayi",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/haye margayi.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Haye margai - KANTA LAGA ! Neha kakkar ! Tony Kakkar.mp3",
       "file": "Haye margai - KANTA LAGA ! Neha kakkar ! Tony Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Kanta Laga - Instrumental",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (17).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Kanta Laga - Instrumental ! Tony Kakkar ! Yo Yo Honey Singh.mp3",
-      "file": "Kanta Laga - Instrumental ! Tony Kakkar ! Yo Yo Honey Singh.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Jaan Jane Jahan",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (18).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/jaan jane jahan - KANTA LAGA ! yo yo Honey singh.mp3",
-      "file": "jaan jane jahan - KANTA LAGA ! yo yo Honey singh.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Dheeme Dheeme",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/dheeme dheeme.jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dheeme Dheeme - KANTA LAGA ! Tony kakkar.mp3",
-      "file": "Dheeme Dheeme - KANTA LAGA ! Tony kakkar.mp3"
+      "ringtone_url": "https://yash6292.github.io/neha_kakkar_song_data/Dheeme dheeme.mp3",
+      "file": "Dheeme dheeme.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Marjaneya",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (42).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Marjaneya.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Marjaneya - Neha Kakkar.mp3",
       "file": "Marjaneya - Neha Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Bepanah Pyar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (43).jpeg",
+      "ringtone_name": "Bepanah Pyar Tujse",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/bepanh pyar.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Bepanah Pyar ! Yasser Desai ! Romantic ! Hindi.mp3",
       "file": "Bepanah Pyar ! Yasser Desai ! Romantic ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Rula Deti Hai",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (44).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Rula Deti Hai - Yasser Desai ! Romantic ! Hindi ! Album.mp3",
-      "file": "Rula Deti Hai - Yasser Desai ! Romantic ! Hindi ! Album.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Dil Mang Raha Hai",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (45).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dil Mang Raha Hai Mohlat - Ghost - Yasser Desai ! Hindi.mp3",
-      "file": "Dil Mang Raha Hai Mohlat - Ghost - Yasser Desai ! Hindi.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Dil Ko Karar Aaya",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (46).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/dil ko karar.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dil Ko Karar Aaya - Neha kakkar - Hindi.mp3",
       "file": "Dil Ko Karar Aaya - Neha kakkar - Hindi.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Naina",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (48).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/naina.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Naina - Neha Kakkar ! Hindi.mp3",
       "file": "Naina - Neha Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Mujhko Baarish Mein Tum",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (49).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mujhko baarish mein tum - Neha kakkar - Hindi.mp3",
-      "file": "Mujhko baarish mein tum - Neha kakkar - Hindi.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Mile Ho Tum Humko",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (50).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mile he tum.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mile Ho Tum Humko - Neha Kakkar ! Hindi Song.mp3",
       "file": "Mile Ho Tum Humko - Neha Kakkar ! Hindi Song.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Sawan Aaya Hai",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (51).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/sawan aaya he.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Sawan Aaya Hai- Neha Kakkar.mp3",
       "file": "Sawan Aaya Hai- Neha Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Tera Ghata",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (52).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tera-Ghata-Neha-Kakkar-Ringtone-Mp3-2019-Download-1128-dmr.mp3",
-      "file": "Tera-Ghata-Neha-Kakkar-Ringtone-Mp3-2019-Download-1128-dmr.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Kanta Laga Ui Maa",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (22).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/kanta laga.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Kanta Laga Ui Maa ! Tony Kakkar ! Neha Kakkar ! Hindi.mp3",
       "file": "Kanta Laga Ui Maa ! Tony Kakkar ! Neha Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Oh Humsafar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (23).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Oh Humsafar - Neha Kakkar - Tony Kakkar ! Hindi.mp3",
-      "file": "Oh Humsafar - Neha Kakkar - Tony Kakkar ! Hindi.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Jiske Dole Shole Ho",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (25).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Jiske Dole Shole Ho - 12 Ladke ! Hindi.mp3",
-      "file": "Jiske Dole Shole Ho - 12 Ladke ! Hindi.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Main Body Banata Hun",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (26).jpeg",
+      "ringtone_name": "Main Body Banata Hun Tere Liye",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/me body banata hu.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Main Body Banata Hun Tere Liye - 12 ladke - Tony Kakkar ! Hindi.mp3",
       "file": "Main Body Banata Hun Tere Liye - 12 ladke - Tony Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "12 Ladke Sath Ghume",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (27).jpeg",
+      "ringtone_name": "12 Ladke",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/12%20ladke.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/12 Ladke Sath Ghume - Tony Kakkar , Neha Kakkar.mp3",
       "file": "12 Ladke Sath Ghume - Tony Kakkar , Neha Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Camray Waleya",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (29).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Camray Waleya - Neha Kakkar Tony kakkar.mp3",
-      "file": "Camray Waleya - Neha Kakkar Tony kakkar.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Naach Meri Rani",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (30).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/naach meri rani.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3",
       "file": "Naach Meri Rani - Guru Randhawa - Nora Fatehi ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Rayvanny - Pepeta",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (32).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Nora Fatehi - rayvanny - pepeta.mp3",
-      "file": "Nora Fatehi - rayvanny - pepeta.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Dilbar Remix",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (33).jpeg",
+      "ringtone_name": "Dilbar Instrumet",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/dilbar-instrumet.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dilbar Remix Bgm I Nora Fatehi I Hindi.mp3",
       "file": "Dilbar Remix Bgm I Nora Fatehi I Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Dilbar - Dj Remix",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (34).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dilbar - Dj Remix - Satyameva Jayate ! Hindi Song.mp3",
-      "file": "Dilbar - Dj Remix - Satyameva Jayate ! Hindi Song.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Mushkil Mein Hai Jeena",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (35).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mushkil me hai.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mushkil Mein Hai Jeena - Kusu Kusu - Hindi Song.mp3",
       "file": "Mushkil Mein Hai Jeena - Kusu Kusu - Hindi Song.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Dhadkano Ki Mannat Tu",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (36).jpeg",
+      "ringtone_name": "Kusu Kusu",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Kusu-Kusu.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Dhadkano Ki Mannat Tu - Kusu Kusu - Hindi Song.mp3",
       "file": "Dhadkano Ki Mannat Tu - Kusu Kusu - Hindi Song.mp3"
-    },
-    {
-      "id": "1",
-      "ringtone_name": "Mile Ho Tum Humko",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/mile ho tum humko.webp",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mile Ho Tum Humko - Neha Kakkar ! Hindi Song.mp3",
-      "file": "Mile Ho Tum Humko - Neha Kakkar ! Hindi Song.mp3"
     },
     {
       "id": "1",
@@ -346,7 +227,7 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Do gallan",
+      "ringtone_name": "Do Gallan",
       "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/do gallan.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Do gallan - Neha kakkar ! Love.mp3",
       "file": "Do gallan - Neha kakkar ! Love.mp3"
@@ -367,22 +248,22 @@
     },
     {
       "id": "1",
-      "ringtone_name": "Kalla Sohna nhi",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/kala sohna hain.jpeg",
+      "ringtone_name": "Kalla Sohna Nhi",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/kalla sohna.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Kalla Sohna nhi - Neha Kakkar.mp3",
       "file": "Kalla Sohna nhi - Neha Kakkar.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "La Lala",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/la lala.jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/la la la.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/La Lala - Neha Kakkar - Arjun Kanungo.mp3",
       "file": "La Lala - Neha Kakkar - Arjun Kanungo.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Mahi Ve",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/mahi ve.jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mahi ve.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mahi Ve Neha Kakkar Sad.mp3",
       "file": "Mahi Ve Neha Kakkar Sad.mp3"
     },
@@ -396,84 +277,77 @@
     {
       "id": "1",
       "ringtone_name": "Kala Chashma",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (1).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/kala chasma.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Kala Chashma - Baar Baar Dekho ! Neha Kakkar.mp3",
       "file": "Kala Chashma - Baar Baar Dekho ! Neha Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "O Sajna - Neha Kakkar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (2).jpeg",
+      "ringtone_name": "O Sajna",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/o sajana.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/O Sajna - Neha Kakkar ! Hindi.mp3",
       "file": "O Sajna - Neha Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Tere Bin - Neha Kakkar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (3).jpeg",
+      "ringtone_name": "Tere Bin",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/tere bin.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tere Bin - Neha Kakkar ! Hindi.mp3",
       "file": "Tere Bin - Neha Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Akhiyan - neha kakkar",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (4).jpeg",
+      "ringtone_name": "Akhiyan",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Akhiyan.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Akhiyan - neha kakkar.mp3",
       "file": "Akhiyan - neha kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Tuesdays & Fridays",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (5).jpeg",
-      "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Tuesdays & Fridays! Phone Mein Teri Photo.mp3",
-      "file": "Tuesdays & Fridays! Phone Mein Teri Photo.mp3"
-    },
-    {
-      "id": "1",
       "ringtone_name": "Phone Mein Teri Photo",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (6).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Phone-Mein-Teri-Photo.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Mere Phone Mein Teri Photo - Neha Kakkar ! Hindi Song.mp3",
       "file": "Mere Phone Mein Teri Photo - Neha Kakkar ! Hindi Song.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Taaron ke sheher mein",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (7).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/taaron ke sheher.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Taaron ke sheher mein ! neha Kakkar.mp3",
       "file": "Taaron ke sheher mein ! neha Kakkar.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Jheel Ke Pani Mein Ishq",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (8).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/jheel ke pani mein.jpg\n",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Jheel Ke Pani Mein Ishq Hi Behta Ho - Neha Kakkar ! Hindi.mp3",
       "file": "Jheel Ke Pani Mein Ishq Hi Behta Ho - Neha Kakkar ! Hindi.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Gale Lagana Hai",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (10).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/Gale-Lagana-Hai.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Gale Lagana Hai - Neha Kakkar.mp3",
       "file": "Gale Lagana Hai - Neha Kakkar.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Zara Paas To Aao",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/neha (11).jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/zara pass to aavo.jpg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Zara Paas To Aao Gale Lagana Hai - Neha Kakkar, Tony Kakkar.mp3",
       "file": "Zara Paas To Aao Gale Lagana Hai - Neha Kakkar, Tony Kakkar.mp3"
     },
     {
       "id": "1",
-      "ringtone_name": "Shona meri shona shona",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/shona meri shona shona.jpeg",
+      "ringtone_name": "Shona Shona",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/shona shona.webp",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Shona Meri Shona Shona - Neha Kakkar - Tony Kakkar.mp3",
       "file": "Shona Meri Shona Shona - Neha Kakkar - Tony Kakkar.mp3"
     },
     {
       "id": "1",
       "ringtone_name": "Mahi Bolna",
-      "thumbnail": "https://devkaranjurad.github.io/neha_kakar_ringtone/bolna.jpeg",
+      "thumbnail": "https://yash6292.github.io/neha_kakkar_song_data/mahi bolna.jpeg",
       "ringtone_url": "https://devkaranjurad.github.io/neha_kakar_ringtone/Bolna Mahi Bolna - Neha Kakkar ! Hindi Song.mp3",
       "file": "Bolna Mahi Bolna - Neha Kakkar ! Hindi Song.mp3"
     },
