@@ -1,0 +1,26 @@
+{
+"status": "success",
+"data": {
+"adsclicklimit": "1",
+"appTitle": "Neha Kakkar Song Ringtones",
+"appUrl": "https://play.google.com/store/apps/details?id=com.ringtones.nehakakkarsongringtones",
+"app_version": "1.0.0",
+"open_ad_id": "ca-app-pub-3940256099942544/3419835294",
+"inter_ad_id": "ca-app-pub-3940256099942544/1033173712",
+"native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+"banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+"isNotAdd": false,
+"getStarted": true,
+"ringtoneListMain": true,
+"ringtoneListBack": true,
+"setViewMain": true,
+"setViewBack": true,
+"ringtonePlayerBack": true,
+"favouriteRingMain": true,
+"favouriteRingBack": true,
+"exitDialog": true,
+"changeTheme": true,
+"bottomBarBack": true,
+"goToFavourite": true
+}
+}
