@@ -14,7 +14,7 @@
 "ringtoneListMain": true,
 "ringtoneListBack": true,
 "setViewMain": false,
-"setViewBack": true,
+"setViewBack": false,
 "ringtonePlayerBack": true,
 "favouriteRingMain": true,
 "favouriteRingBack": false,
