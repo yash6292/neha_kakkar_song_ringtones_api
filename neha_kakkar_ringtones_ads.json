@@ -11,16 +11,16 @@
 "banner_ad_id": "/229445249,22889861963/highR_RS88_NehaKakkarSongRingtones_98_BANNER_1626_040923",
 "isNotAdd": true,
 "getStarted": false,
-"ringtoneListMain": true,
-"ringtoneListBack": true,
+"ringtoneListMain": false,
+"ringtoneListBack": false,
 "setViewMain": false,
 "setViewBack": false,
-"ringtonePlayerBack": true,
-"favouriteRingMain": true,
+"ringtonePlayerBack": false,
+"favouriteRingMain": false,
 "favouriteRingBack": false,
 "exitDialog": false,
-"changeTheme": true,
-"bottomBarBack": true,
-"goToFavourite": true
+"changeTheme": false,
+"bottomBarBack": false,
+"goToFavourite": false
 }
 }
