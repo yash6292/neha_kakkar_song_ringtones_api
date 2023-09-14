@@ -12,15 +12,15 @@
 "isNotAdd": true,
 "getStarted": false,
 "ringtoneListMain": true,
-"ringtoneListBack": false,
+"ringtoneListBack": true,
 "setViewMain": false,
 "setViewBack": false,
-"ringtonePlayerBack": false,
+"ringtonePlayerBack": true,
 "favouriteRingMain": false,
-"favouriteRingBack": false,
+"favouriteRingBack": true,
 "exitDialog": false,
-"changeTheme": false,
+"changeTheme": true,
 "bottomBarBack": true,
-"goToFavourite": false
+"goToFavourite": true
 }
 }
